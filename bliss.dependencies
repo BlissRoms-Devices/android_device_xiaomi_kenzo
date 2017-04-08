@@ -1,6 +1,6 @@
 [
   {
-     +    "remote":      "github",  
+ +    "remote":      "github",  
  +    "repository":  "DroidBot1/device_xiaomi_msm8956-common",
  +    "target_path": "device/xiaomi/msm8956-common",
  +    "branch":      "n"
