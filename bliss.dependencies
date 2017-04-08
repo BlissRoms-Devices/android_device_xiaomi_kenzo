@@ -13,9 +13,9 @@
  +  },
  +  { 
  +    "remote":      "github",  
- +    "repository":  "nvdx11/proprietary_vendor_xiaomi",
+ +    "repository":  "AmolAmrit/proprietary_vendor_xiaomi",
  +    "target_path": "vendor/xiaomi",
- +    "branch":      "n"
+ +    "branch":      "n2"
  +  },
  +  { 
  +    "remote":      "github",  
@@ -28,5 +28,11 @@
  +    "repository":  "LineageOS/android_packages_resources_devicesettings",
  +    "target_path": "packages/resources/devicesettings",
  +    "branch":      "cm-14.1"
-  }
+ +  },
+ +  {
+ +    "remote":      "github",  
+ +    "repository":  "AOSIP/platform_packages_apps_FMRadio",
+ +    "target_path": "packages/apps/FMRadio",
+ +    "branch":      "n-mr1"
+ +  }
 ]
