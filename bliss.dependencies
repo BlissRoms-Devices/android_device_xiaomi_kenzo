@@ -28,11 +28,5 @@
  +    "repository":  "LineageOS/android_packages_resources_devicesettings",
  +    "target_path": "packages/resources/devicesettings",
  +    "branch":      "cm-14.1"
- +  },
- +  {
- +    "remote":      "github",  
- +    "repository":  "AOSIP/platform_packages_apps_FMRadio",
- +    "target_path": "packages/apps/FMRadio",
- +    "branch":      "n-mr1"
  +  }
 ]
