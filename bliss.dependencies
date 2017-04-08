@@ -13,9 +13,9 @@
  +  },
  +  { 
  +    "remote":      "github",  
- +    "repository":  "AmolAmrit/proprietary_vendor_xiaomi",
+ +    "repository":  "nvdx11/proprietary_vendor_xiaomi",
  +    "target_path": "vendor/xiaomi",
- +    "branch":      "n2"
+ +    "branch":      "n"
  +  },
  +  { 
  +    "remote":      "github",  
